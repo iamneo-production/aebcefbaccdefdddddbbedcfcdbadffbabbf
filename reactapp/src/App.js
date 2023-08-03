@@ -1,9 +1,9 @@
-import Stopwatch from "./componenets/Stopwatch/Stopwatch"
+import Stopwatch from "./componenets/Stopwatch/Stopwatch";
 
 function App() {
   return (
     <div className="App">
-      <Stopwatch />
+      <Stopwatch/>
     </div>
   );
 }
