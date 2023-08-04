@@ -42,17 +42,6 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.18"
-  },
-  "jest": {
-    "moduleFileExtensions": [
-      "js",
-      "jsx",
-      "tsx",
-      "ts"
-    ],
-    "rootDir": "src/tests/",
-    "transform": {
-      "^.+\\.(ts|tsx)?$": "ts-jest"
-    }
   }
+ 
 }
