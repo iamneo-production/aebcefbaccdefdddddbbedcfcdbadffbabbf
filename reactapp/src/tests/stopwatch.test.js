@@ -1,4 +1,4 @@
-import Stopwatch from "../components/Stopwatch/Stopwatch";
+import Stopwatch from ".";
 import { act, fireEvent, render, screen, waitFor } from '@testing-library/react';
 
 
